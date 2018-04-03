@@ -1,0 +1,119 @@
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master_of_CS.Form1.resources
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master_of_CS.Form2.resources
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master_of_CS.Resources.resources
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master of CS.vbproj.GenerateResource.Cache
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master of CS.xml
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r2.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r3.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r4.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r5.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r6.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r7.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r8.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r1.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Master of CS.exe.config
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Master of CS.exe
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Master of CS.pdb
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Master of CS.xml
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master of CS.exe
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master of CS.pdb
+x:\Master of CS_Server\Master of CS\bin\Debug\Master of CS.exe.config
+x:\Master of CS_Server\Master of CS\obj\Debug\Master of CS.exe
+x:\Master of CS_Server\Master of CS\obj\Debug\Master of CS.xml
+x:\Master of CS_Server\Master of CS\obj\Debug\Master of CS.pdb
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r2.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r3.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r4.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r5.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r6.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r7.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r8.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r1.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Master of CS.exe
+x:\Master of CS_Server\Master of CS\bin\Debug\Master of CS.pdb
+x:\Master of CS_Server\Master of CS\bin\Debug\Master of CS.xml
+x:\Master of CS_Server\Master of CS\obj\Debug\Master_of_CS.Form1.resources
+x:\Master of CS_Server\Master of CS\obj\Debug\Master_of_CS.Form2.resources
+x:\Master of CS_Server\Master of CS\obj\Debug\Master_of_CS.Resources.resources
+x:\Master of CS_Server\Master of CS\obj\Debug\Master of CS.vbproj.GenerateResource.Cache
+x:\Master of CS_Server\Master of CS\obj\Debug\Master of CS.vbprojResolveAssemblyReference.cache
+x:\Master of CS\Master of CS\bin\Debug\Master of CS.exe.config
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Master of CS.exe.config
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master of CS.vbprojResolveAssemblyReference.cache
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master_of_CS.Form1.resources
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master_of_CS.Form2.resources
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master_of_CS.Resources.resources
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master of CS.vbproj.GenerateResource.Cache
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master of CS.TrustInfo.xml
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master of CS.exe
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master of CS.xml
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master of CS.pdb
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Resources\r2.png
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Resources\r3.png
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Resources\r4.png
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Resources\r5.png
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Resources\r6.png
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Resources\r7.png
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Resources\r8.png
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Resources\r1.png
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Master of CS.exe.manifest
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Master of CS.application
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Master of CS.exe
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Master of CS.pdb
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\bin\Debug\Master of CS.xml
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master of CS.exe.manifest
+Z:\Master of CS Task(1)\Master of CS Task\Master of CS\obj\Debug\Master of CS.application
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.exe.config
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.exe
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.xml
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.pdb
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r2.png
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r3.png
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r4.png
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r5.png
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r6.png
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r7.png
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r8.png
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r1.png
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.exe.manifest
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.application
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.exe
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.pdb
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.xml
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.vbprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master_of_CS.Form1.resources
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master_of_CS.Form2.resources
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master_of_CS.Resources.resources
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.TrustInfo.xml
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.exe.manifest
+C:\inetpub\wwwroot\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.application
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.exe.config
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.exe
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.xml
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.pdb
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r2.png
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r3.png
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r4.png
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r5.png
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r6.png
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r7.png
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r8.png
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Resources\r1.png
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.exe.manifest
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.application
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.exe
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.pdb
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\bin\Debug\Master of CS.xml
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.vbprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master_of_CS.Form1.resources
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master_of_CS.Form2.resources
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master_of_CS.Resources.resources
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.TrustInfo.xml
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.exe.manifest
+C:\Users\User\Downloads\Master of CS Task\Master of CS Task\Master of CS\obj\Debug\Master of CS.application
+C:\Lab 6 Test\4-2-18  source code\Master of CS Task\Master of CS\bin\Debug\Master of CS.exe.config
+C:\Lab 6 Test\4-2-18  source code\Master of CS Task\Master of CS\obj\Debug\Master of CS.exe
+C:\Lab 6 Test\4-2-18  source code\Master of CS Task\Master of CS\obj\Debug\Master of CS.xml
+C:\Lab 6 Test\4-2-18  source code\Master of CS Task\Master of CS\obj\Debug\Master of CS.pdb
