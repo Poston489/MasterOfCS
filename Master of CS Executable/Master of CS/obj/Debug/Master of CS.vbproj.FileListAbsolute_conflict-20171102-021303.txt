@@ -1,0 +1,59 @@
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master_of_CS.Form1.resources
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master_of_CS.Form2.resources
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master_of_CS.Resources.resources
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master of CS.vbproj.GenerateResource.Cache
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master of CS.xml
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r2.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r3.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r4.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r5.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r6.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r7.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r8.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Resources\r1.png
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Master of CS.exe.config
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Master of CS.exe
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Master of CS.pdb
+C:\Users\josep\Desktop\Master of CS\Master of CS\bin\Debug\Master of CS.xml
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master of CS.exe
+C:\Users\josep\Desktop\Master of CS\Master of CS\obj\Debug\Master of CS.pdb
+x:\Master of CS_Server\Master of CS\bin\Debug\Master of CS.exe.config
+x:\Master of CS_Server\Master of CS\obj\Debug\Master of CS.exe
+x:\Master of CS_Server\Master of CS\obj\Debug\Master of CS.xml
+x:\Master of CS_Server\Master of CS\obj\Debug\Master of CS.pdb
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r2.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r3.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r4.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r5.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r6.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r7.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r8.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Resources\r1.png
+x:\Master of CS_Server\Master of CS\bin\Debug\Master of CS.exe
+x:\Master of CS_Server\Master of CS\bin\Debug\Master of CS.pdb
+x:\Master of CS_Server\Master of CS\bin\Debug\Master of CS.xml
+x:\Master of CS_Server\Master of CS\obj\Debug\Master_of_CS.Form1.resources
+x:\Master of CS_Server\Master of CS\obj\Debug\Master_of_CS.Form2.resources
+x:\Master of CS_Server\Master of CS\obj\Debug\Master_of_CS.Resources.resources
+x:\Master of CS_Server\Master of CS\obj\Debug\Master of CS.vbproj.GenerateResource.Cache
+x:\Master of CS_Server\Master of CS\obj\Debug\Master of CS.vbprojResolveAssemblyReference.cache
+x:\Master of CS\Master of CS\bin\Debug\Master of CS.exe.config
+x:\Master of CS\Master of CS\obj\Debug\Master of CS.exe
+x:\Master of CS\Master of CS\obj\Debug\Master of CS.xml
+x:\Master of CS\Master of CS\obj\Debug\Master of CS.pdb
+x:\Master of CS\Master of CS\bin\Debug\Resources\r2.png
+x:\Master of CS\Master of CS\bin\Debug\Resources\r3.png
+x:\Master of CS\Master of CS\bin\Debug\Resources\r4.png
+x:\Master of CS\Master of CS\bin\Debug\Resources\r5.png
+x:\Master of CS\Master of CS\bin\Debug\Resources\r6.png
+x:\Master of CS\Master of CS\bin\Debug\Resources\r7.png
+x:\Master of CS\Master of CS\bin\Debug\Resources\r8.png
+x:\Master of CS\Master of CS\bin\Debug\Resources\r1.png
+x:\Master of CS\Master of CS\bin\Debug\Master of CS.exe
+x:\Master of CS\Master of CS\bin\Debug\Master of CS.pdb
+x:\Master of CS\Master of CS\bin\Debug\Master of CS.xml
+x:\Master of CS\Master of CS\obj\Debug\Master of CS.vbprojResolveAssemblyReference.cache
+x:\Master of CS\Master of CS\obj\Debug\Master_of_CS.Form1.resources
+x:\Master of CS\Master of CS\obj\Debug\Master_of_CS.Form2.resources
+x:\Master of CS\Master of CS\obj\Debug\Master_of_CS.Resources.resources
+x:\Master of CS\Master of CS\obj\Debug\Master of CS.vbproj.GenerateResource.Cache
